@@ -13,7 +13,7 @@ public class BooleanArray{
 		boolean javaIsObjectOriented=true;
 		boolean javaIsNotMultithreaded=false;
 		
-		boolean[] booleanValues={true,false,true,false};
+		boolean[] booleanValues={javaIsPlatformIndependent,javaIsNotSecure,javaIsObjectOriented,javaIsNotMultithreaded};
 		
 		boolean boolValueAtIndex1=booleanValues[0];
 		System.out.println("Value at index one:"+boolValueAtIndex1);
