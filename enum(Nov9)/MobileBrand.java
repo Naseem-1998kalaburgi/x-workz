@@ -1,8 +1,3 @@
-enum Brand
-{
-	SAMSUNG,ONEPLUS,NOKIA,VIVO,OPPO
-}
-
 public class MobileBrand{
 
 public static void main(String[] model)
